@@ -1,4 +1,4 @@
-package com.chaitanya.bankingapp;
+package com.abhyudaya.bankingapp;
 
 import android.content.Intent;
 import android.database.Cursor;
